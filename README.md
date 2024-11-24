@@ -1,7 +1,7 @@
 # CI2024_lab3
 # **N-Puzzle Solver Using A\***
 
-This project implements an **N-Puzzle Solver** using the **A\*** search algorithm, combined with customized heuristics to ensure efficient and scalable performance across various puzzle dimensions. The solver can handle puzzles of size 3x3 to larger dimensions like 7x7 or more.
+This lab implements an **N-Puzzle Solver** using the **A\*** search algorithm, combined with customized heuristics to ensure efficient and scalable performance across various puzzle dimensions. The solver can handle puzzles of size 3x3 to larger dimensions like 7x7 or more.
 
 ---
 
